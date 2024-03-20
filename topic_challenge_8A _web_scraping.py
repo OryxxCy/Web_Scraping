@@ -4,11 +4,6 @@ and print all color names and hex codes.
 Author: Cyrusbien Sarceno
 Section Number: 251409
 Date Created: 03-13-2024
-Credit:
-    Some of the information used to finish this assigment is from askpython.com.
-    Reference
-    AskPython. https://www.askpython.com/python-modules/htmlparser-in-python
-
 Updates: 03-17-2024
 """
 
